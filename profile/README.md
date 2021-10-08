@@ -12,7 +12,7 @@ We are a small, growing studio, and while we aren’t perfect, we strive every d
 [Learn more about Uplift and Adopt Me!](https://uplift.games/about/)
 
 ## Open Source
-We're excited to contribute to the Roblox open source community through projects like [Wally](https://github.com/UpliftGames/wally) and more that are in the works!
+We're excited to contribute to the Roblox open source community through projects like [Wally](https://github.com/UpliftGames/wally) and [Moonwave](https://github.com/UpliftGames/moonwave)!
 
 ## Join us
 
