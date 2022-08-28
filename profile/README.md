@@ -7,9 +7,9 @@
 We are a small, growing studio, and while we aren’t perfect, we strive every day to build the sort of studio we always wished we could work for. A place where unforgettable AAA-scale experiences can be created with an independent spirit, by people who live happy and healthy lives.
 
 ## We make Adopt Me! 🐶🐱🐉
-[Adopt Me](https://playadopt.me) is the fastest growing and most-played Roblox game of all time. Players explore a family-friendly online world where they can build and decorate houses, adopt over 150 cute pets, and use in-game tools to create their own emergent fun with friends.
+[Adopt Me](https://playadopt.me) is the most-played Roblox game of all time. Players explore a family-friendly online world where they can build and decorate houses, adopt over 150 cute pets, and use in-game tools to create their own emergent fun with friends.
 
-[Learn more about Uplift and Adopt Me!](https://uplift.games/about/)
+[Learn more about our studio & Adopt Me here](https://uplift.games/about/)
 
 ## Open Source
 We're excited to contribute to the Roblox open source community through projects like [Wally](https://github.com/UpliftGames/wally) and [Moonwave](https://github.com/UpliftGames/moonwave)!
