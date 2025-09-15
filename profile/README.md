@@ -1,13 +1,13 @@
 # Welcome to Uplift Games! 👋
 
-![Uplift Games Poster](https://www.uplift.games/assets/poster-logo.png)
+![Uplift Games Poster](https://cdn.uplift.games/key-art/poster-logo.png)
 
-[Uplift Games](https://uplift.games) is a modern, remote-first game studio based in North America and the UK. We develop top games on Roblox, including Adopt Me, which has been played over 33 billion times. Together our diverse and talented team of Metaverse experts and wider industry veterans are creating future nostalgia for our millions of players.
+[Uplift Games](https://uplift.games) is a modern, remote-first game studio based across North America and the UK. We're the team behind top Roblox games like Adopt Me!, played over 40 billion times by millions of players worldwide.
 
-We are a small, growing studio, and while we aren't perfect, we strive every day to build the sort of studio we always wished we could work for. A place where unforgettable AAA-scale experiences can be created with an independent spirit, by people who live happy and healthy lives.
+We're a diverse, close-knit team of 60+ Roblox experts and game industry veterans, united by a love of craft and a deep respect for our players. Together, we're creating future nostalgia - unforgettable, AAA-scale experiences with an independent spirit.
 
 ## We make Adopt Me! 🐶🐱🐉
-[Adopt Me](https://playadopt.me) is the premiere pet adoption game on Roblox, cherished by 425M+ players worldwide. Players explore a family-friendly online world where they can build and decorate houses, adopt over 200 cute pets, and use in-game tools to create their own emergent fun with friends.
+[Adopt Me](https://playadopt.me) is the premiere pet adoption game on Roblox, cherished by 425M+ players worldwide. Players explore a family-friendly online world where they can build and decorate houses, adopt over 600 cute pets, and use in-game tools to create their own emergent fun with friends.
 
 [Learn more about our studio & Adopt Me here](https://uplift.games/about/)
 
